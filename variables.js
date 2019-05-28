@@ -1,5 +1,6 @@
 function speaker() {
-  var sentence = 'Bird is the word.';
- 
-  console.log(sentence);
+  sentence = 'Bird is the word.';
 }
+ 
+speaker();
+console.log(sentence);
